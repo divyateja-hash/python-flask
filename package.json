@@ -1,0 +1,12 @@
+{
+  "name": "flask-jinja-tailwind-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+"scripts": {
+  "build-css": "tailwindcss build static/css/styles.css -o static/css/output.css"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
